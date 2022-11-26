@@ -22,3 +22,9 @@ git --version
 ```
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
 ```
+
+## git document
+```
+https://docs.google.com/document/d/1-d6lPvQH5hIkHIQLFNXOuy_YF345wjyIqhgXL6KeCVY/preview?pru=AAABhNfWMq4*O3Mi5nh860ybWo-TCKqA_w
+```
+
